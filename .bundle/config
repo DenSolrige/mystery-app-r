@@ -1,0 +1,2 @@
+---
+BUNDLE_BUILD__NIO4R: "--with-cflags=-std=c99"
